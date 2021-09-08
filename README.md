@@ -1,1 +1,1 @@
-# tony-space-24lcd-sht31-with-lvgl
+# Example code : Tony Space 2.4-inch LCD display module with LVGL
